@@ -1,11 +1,15 @@
-# StudentMarksManagementSystem
+# Student Marks Management System
+Mini project 1 : 
 My first java Fundamental Program. This is used to manage students marks.
 # JAVA FUNDAMENTAL
 My first java program in my life.
-It runs by cmd.
+
+This project most focused on using loops/methods & arrys. There is a complete code without GUI. It runs by cmd. The project can be used for learning basic java Fundamentals with shortcuts.
 
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+Some Examples in Project -
 
 ![home page](https://github.com/Prabath159753/StudentMarksManagementSystem/blob/main/examples/homePage.png)
 
