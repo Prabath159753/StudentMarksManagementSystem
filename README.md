@@ -11,18 +11,17 @@ This project most focused on using loops/methods & arrys. There is a complete co
 
 Some Examples in Project -
 
-![home page](https://github.com/Prabath159753/StudentMarksManagementSystem/blob/main/examples/homePage.png)
+![homePage](https://user-images.githubusercontent.com/93065467/141141929-d9278098-7582-409e-b245-513d5155aa15.png)
 
-![add new student](https://github.com/Prabath159753/StudentMarksManagementSystem/blob/main/examples/Screenshot%20(82).png)
+![addNewStudentWithMarks](https://user-images.githubusercontent.com/93065467/141141507-fcd0f475-33af-4847-a071-0437b6d97b0d.png)
 
-![print student details](https://github.com/Prabath159753/StudentMarksManagementSystem/blob/main/examples/Screenshot%20(84).png)
+![Screenshot (84)](https://user-images.githubusercontent.com/93065467/141141904-d287c274-e35b-4f8a-ae8f-a752d460fde1.png)
 
-![Print Student Rank](https://github.com/Prabath159753/StudentMarksManagementSystem/blob/main/examples/Screenshot%20(88).png)
+![Screenshot (88)](https://user-images.githubusercontent.com/93065467/141141926-b74951a8-7ee8-471b-9bd5-f05b27fae0d0.png)
 
-![Best in Programmig Fundamentails](https://github.com/Prabath159753/StudentMarksManagementSystem/blob/main/examples/Screenshot%20(86).png)
+![Screenshot (86)](https://user-images.githubusercontent.com/93065467/141141913-55d5e244-2cf1-4706-9b25-3f95adc16086.png)
 
-![Best in Database Management System](https://github.com/Prabath159753/StudentMarksManagementSystem/blob/main/examples/Screenshot%20(87).png)
-
+![Screenshot (87)](https://user-images.githubusercontent.com/93065467/141141920-d51a0e10-f9f3-4a7d-a954-5d8a5e1b42c0.png)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
